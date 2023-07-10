@@ -5,7 +5,5 @@
   - https://www.react-graph-gallery.com
 
 ### Validación de formularios
-- **React Hook Form**
-  - https://www.react-graph-gallery.com
-- **yup**
-  - https://www.react-graph-gallery.com
+- **React Hook Form + yup**
+  - npm install react-hook-form @hookform/resolvers yup
